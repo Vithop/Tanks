@@ -203,7 +203,8 @@ AudioSource:
   m_GameObject: {fileID: 1786287216305674}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 243593320717058068, guid: a4d677abbb1002e4e9751a65a94a8112,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: 3a77defcde1caaa40b6f7502547e0c4e, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
@@ -329,7 +330,7 @@ MonoBehaviour:
   m_ExplosionAudio: {fileID: 82474560856363322}
   m_MaxDamage: 100
   m_ExplosionForce: 1000
-  m_MaxLifeTime: 2
+  m_MaxLifeTime: 3
   m_ExplosionRadius: 5
 --- !u!136 &136682665813345148
 CapsuleCollider:
